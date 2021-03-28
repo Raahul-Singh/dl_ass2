@@ -2,3 +2,4 @@
 **/*.tar.gz
 **/*.csv
 .DS_Store
+.vscode/**/*
