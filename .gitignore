@@ -1,3 +1,4 @@
 **/*.zip
 **/*.tar.gz
 **/*.csv
+.DS_Store
